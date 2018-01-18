@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="~ShiroNeko-mido"
+CONFIG_LOCALVERSION="~ShiroNeko-markw"
 # CONFIG_LOCALVERSION_AUTO is not set
 # CONFIG_USELIB is not set
 CONFIG_AUDIT=y
@@ -525,6 +525,7 @@ CONFIG_MSM_IOMMU_V1=y
 CONFIG_ARM_SMMU=y
 =======
 CONFIG_MACH_XIAOMI_MARKW=y
+# CONFIG_MACH_XIAOMI_MIDO is not set
 
 #
 # SOC (System On Chip) specific Drivers
